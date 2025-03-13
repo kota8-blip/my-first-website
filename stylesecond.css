@@ -514,7 +514,7 @@ body.no-scroll{
 
 .slider{
   display: flex;
-  animation: slide 50s linear infinite;
+  animation: slide 60s linear infinite;
   gap: 3.75rem;
   width: max-content;
 }
