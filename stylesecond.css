@@ -29,8 +29,8 @@ html body{
   z-index: -1;
 }
 
-.main-story .bg1{background-image: url('images/pexels-harrisonhaines-3204051.jpg'); animation-delay:0s;}
-.main-story .bg2{background-image: url('images/family-8702291_640.png'); animation-delay:7s;}
+.main-story .bg1{background-image: url('images/family-8702291_640.png'); animation-delay:0s;}
+.main-story .bg2{background-image: url('images/pexels-harrisonhaines-3204051.jpg'); animation-delay:7s;}
 .main-story .bg3{background-image: url('images/pexels-matthew-montrone-230847-733478.jpg'); animation-delay:14s;}
 .main-story .bg4{background-image: url('images/pexels-alexandro-david-871783-1912359.jpg'); animation-delay:21s;}
 .main-story .bg5{background-image: url('images/sabesh-photography-ltd-1J-HspMgWwM-unsplash.jpg'); animation-delay:28s;}
